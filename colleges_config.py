@@ -29,6 +29,8 @@ MY_COLLEGES = {
     'college_1': {
         'name': 'North Notts College',
         'location': 'Worksop, UK',
+        'latitude': 53.3020,
+        'longitude': -1.1242,
         'programs': [
             'Computer Science',
             'Engineering',
@@ -41,6 +43,8 @@ MY_COLLEGES = {
     'college_2': {
         'name': 'City Central College',
         'location': 'Anytown, USA',
+        'latitude': 40.7128,
+        'longitude': -74.0060,
         'programs': [
             'Business',
             'Finance',
@@ -52,6 +56,8 @@ MY_COLLEGES = {
     'college_3': {
         'name': 'College Name 3',
         'location': 'City, State',
+        'latitude': 34.0522,
+        'longitude': -118.2437,
         'enrollment': 0,
         'acceptance_rate': 0.0,
         'avg_gpa': 0.0,

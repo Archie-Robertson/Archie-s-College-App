@@ -1,0 +1,51 @@
+{
+  "college_id": "college_1",
+  "college_name": "North Notts College",
+  "college_location": "Worksop, UK",
+  "selected_courses": [
+    "Computer Science",
+    "Engineering",
+    "Business",
+    "Mathematics",
+    "Data Science"
+  ],
+  "radius_miles": null,
+  "analysis_timestamp": "2025-11-14T14:58:01.637123",
+  "competitors": {
+    "Harvard University": {
+      "exact_matches": [],
+      "similar_matches": [],
+      "competition_score": 0.0,
+      "distance_miles": null,
+      "competitor_total_programs": 7
+    },
+    "Stanford University": {
+      "exact_matches": [],
+      "similar_matches": [],
+      "competition_score": 0.0,
+      "distance_miles": null,
+      "competitor_total_programs": 4
+    },
+    "Massachusetts Institute of Technology": {
+      "exact_matches": [],
+      "similar_matches": [],
+      "competition_score": 0.0,
+      "distance_miles": null,
+      "competitor_total_programs": 0
+    },
+    "University of California, Berkeley": {
+      "exact_matches": [],
+      "similar_matches": [],
+      "competition_score": 0.0,
+      "distance_miles": null,
+      "competitor_total_programs": 6
+    },
+    "Yale University": {
+      "exact_matches": [],
+      "similar_matches": [],
+      "competition_score": 0.0,
+      "distance_miles": null,
+      "competitor_total_programs": 8
+    }
+  }
+}
