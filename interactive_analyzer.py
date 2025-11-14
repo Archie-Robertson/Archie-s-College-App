@@ -131,6 +131,11 @@ def select_courses(college):
     print("-" * 40)
     print(f"Available courses: {len(all_courses)}\n")
     
+    # Suppress logging during menu interaction
+    import logging
+    logging.getLogger('scraper').setLevel(logging.WARNING)
+    logging.getLogger('course_matcher').setLevel(logging.WARNING)
+    
     if HAS_MENU:
         # Multi-select using simple-term-menu (select with space, confirm with enter)
         menu_items = [f"✓ ALL COURSES ({len(all_courses)} total)"] + all_courses
@@ -188,6 +193,12 @@ def select_courses(college):
 
 def run_analysis(college_id, college, selected_courses, radius_miles):
     """Run competition analysis on selected courses with geographic filtering."""
+    
+    # Re-enable logging for analysis phase
+    import logging
+    logging.getLogger('scraper').setLevel(logging.INFO)
+    logging.getLogger('course_matcher').setLevel(logging.INFO)
+    
     db = CollegeDatabase()
     
     # Clear previous results
