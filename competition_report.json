@@ -16,12 +16,20 @@
     {
       "name": "Harvard University",
       "url": "https://harvard.edu",
-      "total_courses": 0,
+      "total_courses": 7,
       "exact_matches": [],
       "exact_match_count": 0,
       "close_matches": [],
       "close_match_count": 0,
-      "unique_to_competitor": [],
+      "unique_to_competitor": [
+        "academics",
+        "undergraduate degrees",
+        "graduate degrees",
+        "other",
+        "professional and lifelong learning",
+        "honorary degrees",
+        "diabetes program | harvard stem cell institute"
+      ],
       "unique_to_yours": [
         "computer science",
         "engineering",
@@ -31,17 +39,22 @@
       ],
       "competition_level": "\u26aa VERY LOW - Few to no overlapping courses",
       "competition_score": 0.0,
-      "match_percentage": 0
+      "match_percentage": 0.0
     },
     {
-      "name": null,
+      "name": "Stanford University",
       "url": "https://stanford.edu",
-      "total_courses": 0,
+      "total_courses": 4,
       "exact_matches": [],
       "exact_match_count": 0,
       "close_matches": [],
       "close_match_count": 0,
-      "unique_to_competitor": [],
+      "unique_to_competitor": [
+        "undergraduate majors",
+        "graduate programs",
+        "research centers a - to z",
+        "libraries"
+      ],
       "unique_to_yours": [
         "computer science",
         "engineering",
@@ -51,7 +64,7 @@
       ],
       "competition_level": "\u26aa VERY LOW - Few to no overlapping courses",
       "competition_score": 0.0,
-      "match_percentage": 0
+      "match_percentage": 0.0
     },
     {
       "name": "Massachusetts Institute of Technology",
@@ -74,14 +87,21 @@
       "match_percentage": 0
     },
     {
-      "name": "",
+      "name": "University of California, Berkeley",
       "url": "https://berkeley.edu",
-      "total_courses": 0,
+      "total_courses": 6,
       "exact_matches": [],
       "exact_match_count": 0,
       "close_matches": [],
       "close_match_count": 0,
-      "unique_to_competitor": [],
+      "unique_to_competitor": [
+        "academics overview",
+        "schools & colleges",
+        "advising & tutoring",
+        "u.s. news & world report .",
+        "115 undergraduate degree programs",
+        "masters, professional and doctoral programs"
+      ],
       "unique_to_yours": [
         "computer science",
         "engineering",
@@ -91,17 +111,26 @@
       ],
       "competition_level": "\u26aa VERY LOW - Few to no overlapping courses",
       "competition_score": 0.0,
-      "match_percentage": 0
+      "match_percentage": 0.0
     },
     {
       "name": "Yale University",
       "url": "https://yale.edu",
-      "total_courses": 0,
+      "total_courses": 8,
       "exact_matches": [],
       "exact_match_count": 0,
       "close_matches": [],
       "close_match_count": 0,
-      "unique_to_competitor": [],
+      "unique_to_competitor": [
+        "academics",
+        "undergraduate study",
+        "graduate & professional study",
+        "departments & programs",
+        "global education",
+        "non-degree offerings",
+        "non-degree seeking students",
+        "world fellows program"
+      ],
       "unique_to_yours": [
         "computer science",
         "engineering",
@@ -111,7 +140,7 @@
       ],
       "competition_level": "\u26aa VERY LOW - Few to no overlapping courses",
       "competition_score": 0.0,
-      "match_percentage": 0
+      "match_percentage": 0.0
     }
   ],
   "summary": {
@@ -128,7 +157,7 @@
         "matches": 0
       },
       {
-        "name": null,
+        "name": "Stanford University",
         "score": 0.0,
         "matches": 0
       },
@@ -138,7 +167,7 @@
         "matches": 0
       },
       {
-        "name": "",
+        "name": "University of California, Berkeley",
         "score": 0.0,
         "matches": 0
       },
