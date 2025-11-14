@@ -1,0 +1,6 @@
+id,name,city,country,programs_list,students,tuition_usd,latitude,longitude,avg_sat,website
+C001,Harvard University,Cambridge,USA,"[""Computer Science"",""Engineering"",""Business"",""Medicine""]",7000,57000,42.3601,-71.1193,1550,https://harvard.edu
+C002,Stanford University,Palo Alto,USA,"Computer Science,Engineering,Business",17000,60000,37.4275,-122.1697,1540,https://stanford.edu
+C003,MIT,Cambridge,USA,"Computer Science,Engineering,Physics,Mathematics",1000,60000,42.3601,-71.0589,1550,https://mit.edu
+C004,UC Berkeley,Berkeley,USA,"Computer Science,Engineering,Business,Chemistry",32000,18000,37.8716,-122.2727,1410,https://berkeley.edu
+C005,Yale University,New Haven,USA,"Computer Science,Business,Law,Medicine",5500,60000,41.3083,-72.9279,1520,https://yale.edu

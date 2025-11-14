@@ -1,0 +1,152 @@
+{
+  "your_college": {
+    "id": "college_1",
+    "name": "North Notts College",
+    "location": "Worksop, UK",
+    "total_courses": 5,
+    "courses": [
+      "computer science",
+      "engineering",
+      "business",
+      "mathematics",
+      "data science"
+    ]
+  },
+  "competitors": [
+    {
+      "name": "Harvard University",
+      "url": "https://harvard.edu",
+      "total_courses": 0,
+      "exact_matches": [],
+      "exact_match_count": 0,
+      "close_matches": [],
+      "close_match_count": 0,
+      "unique_to_competitor": [],
+      "unique_to_yours": [
+        "computer science",
+        "engineering",
+        "business",
+        "mathematics",
+        "data science"
+      ],
+      "competition_level": "\u26aa VERY LOW - Few to no overlapping courses",
+      "competition_score": 0.0,
+      "match_percentage": 0
+    },
+    {
+      "name": null,
+      "url": "https://stanford.edu",
+      "total_courses": 0,
+      "exact_matches": [],
+      "exact_match_count": 0,
+      "close_matches": [],
+      "close_match_count": 0,
+      "unique_to_competitor": [],
+      "unique_to_yours": [
+        "computer science",
+        "engineering",
+        "business",
+        "mathematics",
+        "data science"
+      ],
+      "competition_level": "\u26aa VERY LOW - Few to no overlapping courses",
+      "competition_score": 0.0,
+      "match_percentage": 0
+    },
+    {
+      "name": "Massachusetts Institute of Technology",
+      "url": "https://mit.edu",
+      "total_courses": 0,
+      "exact_matches": [],
+      "exact_match_count": 0,
+      "close_matches": [],
+      "close_match_count": 0,
+      "unique_to_competitor": [],
+      "unique_to_yours": [
+        "computer science",
+        "engineering",
+        "business",
+        "mathematics",
+        "data science"
+      ],
+      "competition_level": "\u26aa VERY LOW - Few to no overlapping courses",
+      "competition_score": 0.0,
+      "match_percentage": 0
+    },
+    {
+      "name": "",
+      "url": "https://berkeley.edu",
+      "total_courses": 0,
+      "exact_matches": [],
+      "exact_match_count": 0,
+      "close_matches": [],
+      "close_match_count": 0,
+      "unique_to_competitor": [],
+      "unique_to_yours": [
+        "computer science",
+        "engineering",
+        "business",
+        "mathematics",
+        "data science"
+      ],
+      "competition_level": "\u26aa VERY LOW - Few to no overlapping courses",
+      "competition_score": 0.0,
+      "match_percentage": 0
+    },
+    {
+      "name": "Yale University",
+      "url": "https://yale.edu",
+      "total_courses": 0,
+      "exact_matches": [],
+      "exact_match_count": 0,
+      "close_matches": [],
+      "close_match_count": 0,
+      "unique_to_competitor": [],
+      "unique_to_yours": [
+        "computer science",
+        "engineering",
+        "business",
+        "mathematics",
+        "data science"
+      ],
+      "competition_level": "\u26aa VERY LOW - Few to no overlapping courses",
+      "competition_score": 0.0,
+      "match_percentage": 0
+    }
+  ],
+  "summary": {
+    "total_competitors_analyzed": 5,
+    "very_high_competition": 0,
+    "high_competition": 0,
+    "medium_competition": 0,
+    "low_competition": 5,
+    "average_match_percentage": 0.0,
+    "biggest_competitors": [
+      {
+        "name": "Harvard University",
+        "score": 0.0,
+        "matches": 0
+      },
+      {
+        "name": null,
+        "score": 0.0,
+        "matches": 0
+      },
+      {
+        "name": "Massachusetts Institute of Technology",
+        "score": 0.0,
+        "matches": 0
+      },
+      {
+        "name": "",
+        "score": 0.0,
+        "matches": 0
+      },
+      {
+        "name": "Yale University",
+        "score": 0.0,
+        "matches": 0
+      }
+    ]
+  }
+}
